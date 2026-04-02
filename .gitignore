@@ -1,0 +1,46 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos de configuração local
+config.json
+stats.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Executáveis
+*.exe
+*.msi
+*.spec
+build_exe/
+dist/
